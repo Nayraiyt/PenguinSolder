@@ -17,9 +17,14 @@ PCB:
 
 
 Bill of Materials: 
+
 2 Push Buttons
+
 2 220 Ohm Resistors
+
 2 LEDs
+
 1 Battery Cell
+
 
 Slack Username: @Naomi Cheng
