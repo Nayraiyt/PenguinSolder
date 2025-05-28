@@ -9,11 +9,12 @@ Scematic:
 
 PCB:
 
-![PenguinPCBEditorPicture](https://github.com/user-attachments/assets/95f93a1c-16bb-4a97-897b-e392a06fc8d5)
+![Screenshot 2025-05-27 231756](https://github.com/user-attachments/assets/cd08528e-6c9f-4bc9-bef0-89b4ec620a5f)
+
 
 3D:
 
-![PenguinPCB3d](https://github.com/user-attachments/assets/0e0f930a-9428-41fa-b580-da8987eed298)
+![Screenshot 2025-05-27 231910](https://github.com/user-attachments/assets/38513183-1c59-4a05-92f6-baa76064a087)
 
 
 Bill of Materials: 
